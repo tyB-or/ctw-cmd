@@ -1,0 +1,54 @@
+{
+  "tools": [
+    {
+      "id": "741a5b3b981aac391db067dad2012fb3",
+      "name": "微步",
+      "url": "https://x.threatbook.com/",
+      "icon": "741a5b3b981aac391db067dad2012fb3.ico",
+      "description": "api查询有次数限制，用python写了批量查询工具，20次/天。",
+      "category": "威胁情报",
+      "tags": [
+        "威胁情报"
+      ],
+      "usage_count": 0,
+      "created_at": "2025-06-20T14:55:11.372611+08:00",
+      "updated_at": "2025-06-21T23:12:20.777954+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "note_file": "notes/web_tools/微步.txt"
+    },
+    {
+      "id": "50c34dc868df07d4a6091a8c27d9c862",
+      "name": "openurl",
+      "url": "https://www.openurl.cn/",
+      "icon": "default-icon.png",
+      "description": "批量打开网址，网址，ip的处理工具，ip提取和去重",
+      "category": "分拣",
+      "tags": [
+        "去重"
+      ],
+      "usage_count": 0,
+      "created_at": "2025-06-23T21:12:38.336352+08:00",
+      "updated_at": "2025-06-23T21:12:38.336352+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "note_file": "notes/web_tools/openurl.txt"
+    },
+    {
+      "id": "9b73967a87589808898e048ce1f35158",
+      "name": "飞书",
+      "url": "https://feishu.cn/drive/home/",
+      "icon": "9b73967a87589808898e048ce1f35158.ico",
+      "description": "我的飞书文档",
+      "category": "我的",
+      "tags": [
+        "知识库",
+        "笔记",
+        "私人"
+      ],
+      "usage_count": 1,
+      "created_at": "2025-06-23T21:20:49.334426+08:00",
+      "updated_at": "2025-06-23T21:25:38.459121+08:00",
+      "last_used_at": "2025-06-24T08:58:39.114306+08:00",
+      "note_file": "notes/web_tools/飞书.txt"
+    }
+  ]
+}

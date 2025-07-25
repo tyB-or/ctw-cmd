@@ -1,0 +1,1287 @@
+{
+  "scan_path": "/Users/02_tool/0-matu7/sec-tools",
+  "auto_refresh": true,
+  "tools": [
+    {
+      "id": "4ad9fa22cb843b24111f2533f8815bd7",
+      "name": "SpringBoot-Scan",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/SpringBoot-Scan",
+      "description": "",
+      "tags": [
+        "framework"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851636+08:00",
+      "updated_at": "2025-07-11T21:59:26.230127+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/SpringBoot-Scan.txt",
+      "key_path": ""
+    },
+    {
+      "id": "89a4816f0a10a4007aeb2a78af2cf45a",
+      "name": "hyacinth",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/hyacinth",
+      "description": "",
+      "tags": [
+        "框架利用"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T15:15:00.981477+08:00",
+      "updated_at": "2025-07-11T21:59:26.230132+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/hyacinth.txt",
+      "key_path": ""
+    },
+    {
+      "id": "c6c10da6b7ab18ce180be003798c7b53",
+      "name": "csvToIP",
+      "category": "1-我的工具",
+      "path": "/Users/02_tool/0-matu7/sec-tools/1-我的工具/csvToWeibu",
+      "description": "ip处理工具：\n1.文本提取ip，或者文件夹下面的所有表格或者txt文件中提取ip。（正则匹配）\n2.内网ip排除、白名单ip排除、已封禁ip排除（csv文件中的ip-不限制是否强制规整）。\n3.统计功能。\n4.各项数据的展示、复制、导出等功能。\n（写这个是为了方便处理日常的告警回溯）",
+      "tags": [
+        "ip处理",
+        "表格",
+        "py",
+        "跨平台",
+        "图形化工具"
+      ],
+      "command": "python3  main.py",
+      "url": "",
+      "icon": "",
+      "created_at": "2025-07-05T10:48:08.208116+08:00",
+      "updated_at": "2025-07-11T21:59:26.229757+08:00",
+      "last_used_at": "2025-07-05T23:29:46.492824+08:00",
+      "usage_count": 1,
+      "note_file": "notes/offline_tools/csvToWeibu.txt",
+      "key_path": ""
+    },
+    {
+      "id": "12624f76c8256e16ab60e4fea52e4192",
+      "name": "oss-browser-darwin-x64",
+      "category": "other",
+      "path": "/Users/02_tool/0-matu7/sec-tools/other/oss-browser-darwin-x64",
+      "description": "",
+      "tags": [
+        "other"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.852479+08:00",
+      "updated_at": "2025-07-11T21:59:26.230469+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/oss-browser-darwin-x64.txt",
+      "key_path": ""
+    },
+    {
+      "id": "c7cd3cea529bb5556f718e20d158dbc4",
+      "name": "gogogo",
+      "category": "other",
+      "path": "/Users/02_tool/0-matu7/sec-tools/other/gogogo",
+      "description": "",
+      "tags": [
+        "other"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-21T23:07:06.178261+08:00",
+      "updated_at": "2025-07-11T21:59:26.230465+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/gogogo.txt",
+      "key_path": ""
+    },
+    {
+      "id": "1df23702714c00663c2d79d6a88f3eb4",
+      "name": "Ruoyi",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/Ruoyi",
+      "description": "",
+      "tags": [
+        "framework"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851592+08:00",
+      "updated_at": "2025-07-11T21:59:26.230124+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/Ruoyi.txt",
+      "key_path": ""
+    },
+    {
+      "id": "cafd56a6032714480b878dc08204810b",
+      "name": "gorailgun-normal-1.5.5",
+      "category": "other",
+      "path": "/Users/02_tool/0-matu7/sec-tools/other/gorailgun-normal-1.5.5",
+      "description": "",
+      "tags": [
+        "info"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.852051+08:00",
+      "updated_at": "2025-07-11T21:59:26.230466+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/gorailgun-normal-1_5_5.txt",
+      "key_path": ""
+    },
+    {
+      "id": "de66533edea4d929ecb3fcc1e449be1c",
+      "name": "HVVExploitApply",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/HVVExploitApply",
+      "description": "",
+      "tags": [
+        "comprehensive"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851096+08:00",
+      "updated_at": "2025-07-11T21:59:26.230118+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/HVVExploitApply.txt",
+      "key_path": ""
+    },
+    {
+      "id": "0b047cac779a35dbc5d13d15990e84a7",
+      "name": "JYso",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/JYso",
+      "description": "",
+      "tags": [
+        "framework"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851579+08:00",
+      "updated_at": "2025-07-11T21:59:26.230119+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/JYso.txt",
+      "key_path": ""
+    },
+    {
+      "id": "f747e5e4789d2f8d4803d7fb083dfa5c",
+      "name": "BurpSuite",
+      "category": "d-渗透测试",
+      "path": "/Users/02_tool/0-matu7/sec-tools/d-渗透测试/BurpSuite",
+      "description": "",
+      "tags": [
+        "pentest"
+      ],
+      "command": "BurpSuite.app",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.852622+08:00",
+      "updated_at": "2025-07-11T21:59:26.23031+08:00",
+      "last_used_at": "2025-06-20T14:59:40.024385+08:00",
+      "usage_count": 2,
+      "note_file": "notes/offline_tools/BurpSuite.txt",
+      "key_path": ""
+    },
+    {
+      "id": "10890d49fd405d947858178857d0fd89",
+      "name": "day2023",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/day2023",
+      "description": "",
+      "tags": [
+        "comprehensive"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851123+08:00",
+      "updated_at": "2025-07-11T21:59:26.230129+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/day2023.txt",
+      "key_path": ""
+    },
+    {
+      "id": "aeaf00440f5e522b78d13b8aa10b9397",
+      "name": "apitool",
+      "category": "other",
+      "path": "/Users/02_tool/0-matu7/sec-tools/other/apitool",
+      "description": "",
+      "tags": [
+        "other",
+        "info"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.852468+08:00",
+      "updated_at": "2025-07-11T21:59:26.230463+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/apitool.txt",
+      "key_path": ""
+    },
+    {
+      "id": "50f5a3b60b84a6d1e28066dde5cbc7fb",
+      "name": "jndi",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/jndi",
+      "description": "",
+      "tags": [
+        "framework"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851682+08:00",
+      "updated_at": "2025-07-11T21:59:26.230134+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/jndi.txt",
+      "key_path": ""
+    },
+    {
+      "id": "1fbc3c16518b444e364a0961d4421433",
+      "name": "cmd",
+      "category": "1-我的工具",
+      "path": "/Users/02_tool/0-matu7/sec-tools/1-我的工具/cmd",
+      "description": "xlsx保存整理的命令，cmd调用。\n在终端中快速查询命令用，不用再重新找。\n编译：go build -o cmder  ./cmd/cmd  [cmd会和目录冲突，后面在修改回去]\n使用：sudo mv cmd /usr/local/bin/ （然后加载命令库）\n功能：\n强大的模糊查询、统计、交互模式、快捷复制。\n解决了交互模式下的输入异常问题\n空格和逗号都可以用\n（这里是源码）（github私有库）",
+      "tags": [
+        "go",
+        "跨平台",
+        "命令行工具"
+      ],
+      "command": "",
+      "url": "http://localhost:58080/",
+      "icon": "cc.png",
+      "created_at": "2025-07-09T21:43:50.837175+08:00",
+      "updated_at": "2025-07-11T21:59:26.229755+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/cmd.txt",
+      "key_path": ""
+    },
+    {
+      "id": "da9474d63a23bb5a8527bf8b8f416537",
+      "name": "MDUT",
+      "category": "c-数据库利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/c-数据库利用/MDUT",
+      "description": "",
+      "tags": [
+        "databases"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851292+08:00",
+      "updated_at": "2025-07-11T21:59:26.230214+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/MDUT.txt",
+      "key_path": ""
+    },
+    {
+      "id": "f2cca9ba645eca3c90877dec8c47faff",
+      "name": "CobaltStrike4.7",
+      "category": "d-渗透测试",
+      "path": "/Users/02_tool/0-matu7/sec-tools/d-渗透测试/CobaltStrike4.7",
+      "description": "",
+      "tags": [
+        "pentest"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "f2cca9ba645eca3c90877dec8c47faff.ico",
+      "created_at": "2025-06-20T14:44:55.852627+08:00",
+      "updated_at": "2025-07-11T21:59:26.230311+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/CobaltStrike4_7.txt",
+      "key_path": ""
+    },
+    {
+      "id": "33e21f50049abbb985e7d8e6e4d7f522",
+      "name": "Behinder_v4.1.t00ls",
+      "category": "webshell",
+      "path": "/Users/02_tool/0-matu7/sec-tools/webshell/Behinder_v4.1.t00ls",
+      "description": "",
+      "tags": [
+        "webshell"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:42:58.023207+08:00",
+      "updated_at": "2025-07-11T21:59:26.23066+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/Behinder_v4_1_t00ls.txt",
+      "key_path": ""
+    },
+    {
+      "id": "4f2b0da7798960884b4a0529016eff61",
+      "name": "blue",
+      "category": "other",
+      "path": "/Users/02_tool/0-matu7/sec-tools/other/blue",
+      "description": "",
+      "tags": [
+        "other"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.85247+08:00",
+      "updated_at": "2025-07-11T21:59:26.230464+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/blue.txt",
+      "key_path": ""
+    },
+    {
+      "id": "5db14f56810dc71bc7496b153180aaf5",
+      "name": "GitHack",
+      "category": "other",
+      "path": "/Users/02_tool/0-matu7/sec-tools/other/GitHack",
+      "description": "",
+      "tags": [
+        "info"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.852039+08:00",
+      "updated_at": "2025-07-11T21:59:26.230461+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/GitHack.txt",
+      "key_path": ""
+    },
+    {
+      "id": "3b28ea81ab7f5e746f05ebc4d45fd55e",
+      "name": "绿盟告警油猴脚本",
+      "category": "1-我的工具",
+      "path": "/Users/02_tool/0-matu7/sec-tools/1-我的工具/绿盟告警油猴脚本",
+      "description": "绿盟的告警油猴js脚本，大屏横幅展示、声音提示。\n（笔记里面是mac和win的常用命令设置）",
+      "tags": [
+        "js脚本",
+        "告警辅助",
+        "声音",
+        "横幅",
+        "网页应用"
+      ],
+      "command": "",
+      "url": "https://www.tampermonkey.net/",
+      "icon": "3b28ea81ab7f5e746f05ebc4d45fd55e.ico",
+      "created_at": "2025-07-02T15:46:08.902473+08:00",
+      "updated_at": "2025-07-11T21:59:26.229761+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/绿盟告警油猴脚本.txt",
+      "key_path": ""
+    },
+    {
+      "id": "e6bab74d6eee83c1724cd10f1cd8aa63",
+      "name": "dirscan_3.0",
+      "category": "other",
+      "path": "/Users/02_tool/0-matu7/sec-tools/other/dirscan_3.0",
+      "description": "",
+      "tags": [
+        "info"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.852046+08:00",
+      "updated_at": "2025-07-11T21:59:26.230465+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/dirscan_3_0.txt",
+      "key_path": ""
+    },
+    {
+      "id": "2633aeb1ae80d80ad73f9e7a88e7e97a",
+      "name": "heapdump",
+      "category": "other",
+      "path": "/Users/02_tool/0-matu7/sec-tools/other/heapdump",
+      "description": "",
+      "tags": [
+        "info"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.852056+08:00",
+      "updated_at": "2025-07-11T21:59:26.230467+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/heapdump.txt",
+      "key_path": ""
+    },
+    {
+      "id": "73e3a32fcc5efbf8336ebbd73fb86d19",
+      "name": "thinkphp",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/thinkphp",
+      "description": "",
+      "tags": [
+        "framework"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851702+08:00",
+      "updated_at": "2025-07-11T21:59:26.230137+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/thinkphp.txt",
+      "key_path": ""
+    },
+    {
+      "id": "e0b3f33867b4ff3f5adfd50b0e8d398a",
+      "name": "NCTOOls-main",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/NCTOOls-main",
+      "description": "支持检测漏洞列表：\nBshServlet rce\njsInvoke rce\naccept.jsp 文件上传\nNCFindWeb 文件读取/列目录\nDeleteServlet 反序列化\nDownloadServlet 反序列化\nFileReceiveServlet 反序列化\nfsDownloadServlet 反序列化\nMonitorServlet 反序列化\nMxServlet 反序列化\nUploadServlet 反序列化\nNCMessageServlet 反序列化\nXbrlPersistenceServlet 反序列化\nActionHandlerServlet 反序列化\nECFileManagerServlet 反序列化\nModelHandleServlet 反序列化\nResourceManagerServlet 反序列化\n\n其他：\nhttps://stack.chaitin.com/tool/detail/1279\nhttps://github.com/wgpsec/YongYouNcTool",
+      "tags": [
+        "jar",
+        "用友oa",
+        "单个检测"
+      ],
+      "command": " java -jar NCTOOls-1.0-SNAPSHOT.jar",
+      "url": "https://github.com/wafinfo/NCTOOls?tab=readme-ov-file",
+      "icon": "e0b3f33867b4ff3f5adfd50b0e8d398a.ico",
+      "created_at": "2025-06-19T21:31:24.473859+08:00",
+      "updated_at": "2025-07-11T21:59:26.230122+08:00",
+      "last_used_at": "2025-06-20T15:18:13.226903+08:00",
+      "usage_count": 8,
+      "note_file": "notes/offline_tools/NCTOOls-main.txt",
+      "key_path": ""
+    },
+    {
+      "id": "31c1cf0206e5d2ece7e53d74b0d6a60d",
+      "name": "jMG",
+      "category": "other",
+      "path": "/Users/02_tool/0-matu7/sec-tools/other/jMG",
+      "description": "",
+      "tags": [
+        "other"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.852472+08:00",
+      "updated_at": "2025-07-11T21:59:26.230468+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/jMG.txt",
+      "key_path": ""
+    },
+    {
+      "id": "b8563a37f5fa26260cd60eda2cc69d8f",
+      "name": "mitan",
+      "category": "other",
+      "path": "/Users/02_tool/0-matu7/sec-tools/other/mitan",
+      "description": "",
+      "tags": [
+        "info"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.852061+08:00",
+      "updated_at": "2025-07-11T21:59:26.230469+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/mitan.txt",
+      "key_path": ""
+    },
+    {
+      "id": "8492b41c20e6ee3e65d133d371828d47",
+      "name": "weblogic",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/weblogic",
+      "description": "",
+      "tags": [
+        "framework"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851711+08:00",
+      "updated_at": "2025-07-11T21:59:26.230139+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/weblogic.txt",
+      "key_path": ""
+    },
+    {
+      "id": "c97edbc87eba84eb672f03cf69326010",
+      "name": "apt",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/apt",
+      "description": "",
+      "tags": [
+        "comprehensive"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851119+08:00",
+      "updated_at": "2025-07-11T21:59:26.230128+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/apt.txt",
+      "key_path": ""
+    },
+    {
+      "id": "1a9e376929975bb3e963aaf8fdc0ec7a",
+      "name": "Nacos",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/Nacos",
+      "description": "",
+      "tags": [
+        "framework"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851588+08:00",
+      "updated_at": "2025-07-11T21:59:26.230123+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/Nacos.txt",
+      "key_path": ""
+    },
+    {
+      "id": "3c799da6a9ea7251d809def390e2df00",
+      "name": "tomcat",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/tomcat",
+      "description": "",
+      "tags": [
+        "framework"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851707+08:00",
+      "updated_at": "2025-07-11T21:59:26.230138+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/tomcat.txt",
+      "key_path": ""
+    },
+    {
+      "id": "23faa18bf40aa8feee34b63bbd7b2d52",
+      "name": "struts2",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/struts2",
+      "description": "",
+      "tags": [
+        "framework"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851691+08:00",
+      "updated_at": "2025-07-11T21:59:26.230136+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/struts2.txt",
+      "key_path": ""
+    },
+    {
+      "id": "e003d85343fab547245584dab9b6e70a",
+      "name": "CobaltStrike4.8",
+      "category": "d-渗透测试",
+      "path": "/Users/02_tool/0-matu7/sec-tools/d-渗透测试/CobaltStrike4.8",
+      "description": "",
+      "tags": [
+        "pentest"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.85263+08:00",
+      "updated_at": "2025-07-11T21:59:26.230312+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/CobaltStrike4_8.txt",
+      "key_path": ""
+    },
+    {
+      "id": "d601129b3176a50beb70b496f65b4c3e",
+      "name": "OracleShell",
+      "category": "c-数据库利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/c-数据库利用/OracleShell",
+      "description": "",
+      "tags": [
+        "databases"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851298+08:00",
+      "updated_at": "2025-07-11T21:59:26.230216+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/OracleShell.txt",
+      "key_path": ""
+    },
+    {
+      "id": "616b28e57e3d80748a9355e29481671a",
+      "name": "poc2jar-MACOS",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/poc2jar-MACOS",
+      "description": "",
+      "tags": [
+        "comprehensive"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851128+08:00",
+      "updated_at": "2025-07-11T21:59:26.230135+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/poc2jar-MACOS.txt",
+      "key_path": ""
+    },
+    {
+      "id": "f4a9da52f5cb233586b6c6b1df200cf8",
+      "name": "Spring",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/Spring",
+      "description": "",
+      "tags": [
+        "framework"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851596+08:00",
+      "updated_at": "2025-07-11T21:59:26.230125+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/Spring.txt",
+      "key_path": ""
+    },
+    {
+      "id": "32293a89288431ff463762ee0456aebb",
+      "name": "LiqunKit",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/LiqunKit",
+      "description": "",
+      "tags": [
+        "comprehensive"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851101+08:00",
+      "updated_at": "2025-07-11T21:59:26.230121+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/LiqunKit.txt",
+      "key_path": ""
+    },
+    {
+      "id": "dddf0178f24fe9f0607c3f27cca46e45",
+      "name": "headdump",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/headdump",
+      "description": "",
+      "tags": [
+        "framework"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851673+08:00",
+      "updated_at": "2025-07-11T21:59:26.230131+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/headdump.txt",
+      "key_path": ""
+    },
+    {
+      "id": "6aa4e91d6f80b1d2cde8c74df38a01c1",
+      "name": "suo5",
+      "category": "proxy",
+      "path": "/Users/02_tool/0-matu7/sec-tools/proxy/suo5",
+      "description": "",
+      "tags": [
+        "proxy"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.852673+08:00",
+      "updated_at": "2025-07-11T21:59:26.230542+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/suo5.txt",
+      "key_path": ""
+    },
+    {
+      "id": "da2d6440b7bf59fda7737030657c21d7",
+      "name": "cmdMatu",
+      "category": "1-我的工具",
+      "path": "/Users/02_tool/0-matu7/sec-tools/1-我的工具/cmdMatu",
+      "description": "调用matu7的配置文件。\n使用start命令快速启动已有工具，从名称、标签、描述定位工具。\n启动离线工具、mac程序、web网址。\n显示：彩色输出、表格展示、统计数据\n(这里是源码)",
+      "tags": [
+        "go",
+        "跨平台",
+        "命令行工具"
+      ],
+      "command": "",
+      "url": "http://localhost:58080/",
+      "icon": "cmd.png",
+      "created_at": "2025-07-04T23:28:08.812992+08:00",
+      "updated_at": "2025-07-11T21:59:26.229756+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/cmdMatu.txt",
+      "key_path": ""
+    },
+    {
+      "id": "f8f269255fc7e7b443e757bde4f75c98",
+      "name": "AntSword",
+      "category": "webshell",
+      "path": "/Users/02_tool/0-matu7/sec-tools/webshell/AntSword",
+      "description": "常用shell管理工具",
+      "tags": [
+        "webshell",
+        "控制"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:42:58.023189+08:00",
+      "updated_at": "2025-07-11T21:59:26.230657+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/AntSword.txt",
+      "key_path": ""
+    },
+    {
+      "id": "f123ee1e13e11128399db432c43b95d6",
+      "name": "RequestTemplate",
+      "category": "other",
+      "path": "/Users/02_tool/0-matu7/sec-tools/other/RequestTemplate",
+      "description": "",
+      "tags": [
+        "other"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.852466+08:00",
+      "updated_at": "2025-07-11T21:59:26.230462+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/RequestTemplate.txt",
+      "key_path": ""
+    },
+    {
+      "id": "897bfe92a07de623298d1da909aa616a",
+      "name": "MobaXterm密码获取",
+      "category": "9-按需使用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/9-按需使用/MobaXterm密码获取",
+      "description": "一个简单的 MobaXterm 密码转储工具。",
+      "tags": [
+        "exe",
+        "mobax",
+        "解密",
+        "c#"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "",
+      "created_at": "2025-07-07T17:40:59.414203+08:00",
+      "updated_at": "2025-07-11T21:59:26.22985+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/MobaXterm密码获取.txt",
+      "key_path": ""
+    },
+    {
+      "id": "b5e70a49d4a590219f1a5035ae514996",
+      "name": "FastJson",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/FastJson",
+      "description": "",
+      "tags": [
+        "framework"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851575+08:00",
+      "updated_at": "2025-07-11T21:59:26.230117+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/FastJson.txt",
+      "key_path": ""
+    },
+    {
+      "id": "d172d664a7a2157f307818cd59879b03",
+      "name": "jboss",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/jboss",
+      "description": "",
+      "tags": [
+        "framework"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851678+08:00",
+      "updated_at": "2025-07-11T21:59:26.230133+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/jboss.txt",
+      "key_path": ""
+    },
+    {
+      "id": "80c716c71a6a0109053b79bfbf44f9f5",
+      "name": "Behinder_v3.0.11",
+      "category": "webshell",
+      "path": "/Users/02_tool/0-matu7/sec-tools/webshell/Behinder_v3.0.11",
+      "description": "",
+      "tags": [
+        "webshell"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:42:58.023202+08:00",
+      "updated_at": "2025-07-11T21:59:26.230659+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/Behinder_v3_0_11.txt",
+      "key_path": ""
+    },
+    {
+      "id": "bb9a005891793534f52101a8ad2d8c6f",
+      "name": "Webshell_Generate",
+      "category": "webshell",
+      "path": "/Users/02_tool/0-matu7/sec-tools/webshell/Webshell_Generate",
+      "description": "",
+      "tags": [
+        "webshell"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:42:58.023251+08:00",
+      "updated_at": "2025-07-11T21:59:26.230663+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/Webshell_Generate.txt",
+      "key_path": ""
+    },
+    {
+      "id": "690705dbc61373cb769cb33f5324a626",
+      "name": "druid",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/druid",
+      "description": "",
+      "tags": [
+        "framework"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851661+08:00",
+      "updated_at": "2025-07-11T21:59:26.23013+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/druid.txt",
+      "key_path": ""
+    },
+    {
+      "id": "16f18b34763002195f3d0d4b30b9902a",
+      "name": "Thelostworld_OA",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/Thelostworld_OA",
+      "description": "",
+      "tags": [
+        "comprehensive"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851115+08:00",
+      "updated_at": "2025-07-11T21:59:26.230127+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/Thelostworld_OA.txt",
+      "key_path": ""
+    },
+    {
+      "id": "108c854eb15875774d93371504efbfd5",
+      "name": "cursor_规则",
+      "category": "1-我的工具",
+      "path": "/Users/02_tool/0-matu7/sec-tools/1-我的工具/cursor_规则",
+      "description": "收集整理的规则，需要经常更新，记得同步github私有仓库.\n重要-重要-重要：设置好git忽略文件设置，.env，私钥文件。避免泄露\n快捷使用：\ngit clone  https://github.com/tyB-or/.cursor",
+      "tags": [
+        "ai",
+        "cursor规则",
+        "效率"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "",
+      "created_at": "2025-07-06T23:25:10.504751+08:00",
+      "updated_at": "2025-07-11T21:59:26.229758+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/cursor_规则.txt",
+      "key_path": ""
+    },
+    {
+      "id": "00cc9b2e0f3fc83a29d2e8ccd9b927c2",
+      "name": "Behinder-Mode",
+      "category": "webshell",
+      "path": "/Users/02_tool/0-matu7/sec-tools/webshell/Behinder-Mode",
+      "description": "",
+      "tags": [
+        "webshell"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:42:58.023196+08:00",
+      "updated_at": "2025-07-11T21:59:26.230658+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/Behinder-Mode.txt",
+      "key_path": ""
+    },
+    {
+      "id": "d9383f46282505d0db11ee4373695595",
+      "name": "TianXie",
+      "category": "webshell",
+      "path": "/Users/02_tool/0-matu7/sec-tools/webshell/TianXie",
+      "description": "",
+      "tags": [
+        "webshell"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:42:58.023237+08:00",
+      "updated_at": "2025-07-11T21:59:26.230662+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/TianXie.txt",
+      "key_path": ""
+    },
+    {
+      "id": "51ce2dae3e9cb2bab123cc1c6a43aea0",
+      "name": "PotatoTool",
+      "category": "other",
+      "path": "/Users/02_tool/0-matu7/sec-tools/other/PotatoTool",
+      "description": "",
+      "tags": [
+        "other"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.852463+08:00",
+      "updated_at": "2025-07-11T21:59:26.230462+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/PotatoTool.txt",
+      "key_path": ""
+    },
+    {
+      "id": "c94679000e3e09f3eda0ee2538f2c353",
+      "name": "MyExploit",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/MyExploit",
+      "description": "",
+      "tags": [
+        "comprehensive"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851106+08:00",
+      "updated_at": "2025-07-11T21:59:26.230121+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/MyExploit.txt",
+      "key_path": ""
+    },
+    {
+      "id": "ac22b2f0bedd85dad8b20b350c121c80",
+      "name": "shiro",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/shiro",
+      "description": "",
+      "tags": [
+        "framework",
+        "jar"
+      ],
+      "command": "java -jar Shiro-550-with-NoCC.jar",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851687+08:00",
+      "updated_at": "2025-07-11T21:59:26.230136+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/shiro.txt",
+      "key_path": ""
+    },
+    {
+      "id": "957472a108411a839fb3d11c709099d2",
+      "name": "xray",
+      "category": "other",
+      "path": "/Users/02_tool/0-matu7/sec-tools/other/xray",
+      "description": "",
+      "tags": [
+        "info"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.852069+08:00",
+      "updated_at": "2025-07-11T21:59:26.230471+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/xray.txt",
+      "key_path": ""
+    },
+    {
+      "id": "70546d249306497c89f20b2b3aaffcfd",
+      "name": "Godzilla",
+      "category": "webshell",
+      "path": "/Users/02_tool/0-matu7/sec-tools/webshell/Godzilla",
+      "description": "",
+      "tags": [
+        "webshell"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:42:58.023212+08:00",
+      "updated_at": "2025-07-11T21:59:26.230661+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/Godzilla.txt",
+      "key_path": ""
+    },
+    {
+      "id": "38d36e7734463fa3a7b40a8d79cd7a33",
+      "name": "CTFCrackTools",
+      "category": "other",
+      "path": "/Users/02_tool/0-matu7/sec-tools/other/CTFCrackTools",
+      "description": "",
+      "tags": [
+        "other"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.85246+08:00",
+      "updated_at": "2025-07-11T21:59:26.230459+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/CTFCrackTools.txt",
+      "key_path": ""
+    },
+    {
+      "id": "c3e6a8a81e302ce0ba2b37a0a3324c45",
+      "name": "JenKins",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/JenKins",
+      "description": "",
+      "tags": [
+        "framework"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851584+08:00",
+      "updated_at": "2025-07-11T21:59:26.23012+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/JenKins.txt",
+      "key_path": ""
+    },
+    {
+      "id": "2db55f8ceb84c954fa1b5ebbf22a8cc4",
+      "name": "微步api-批量查询",
+      "category": "1-我的工具",
+      "path": "/Users/02_tool/0-matu7/sec-tools/1-我的工具/微步api-批量查询",
+      "description": "微步ip批量查询，调用api实现，gui工具。\n1.快捷启动：start -t 微步api。\n2.cc命令编号：cc  @2",
+      "tags": [
+        "py",
+        "跨平台",
+        "微步api",
+        "图形化工具"
+      ],
+      "command": "python3 ip_reputation_gui.py",
+      "url": "https://x.threatbook.com/v5/apiDocs#/",
+      "icon": "2db55f8ceb84c954fa1b5ebbf22a8cc4.ico",
+      "created_at": "2025-07-02T15:37:17.531375+08:00",
+      "updated_at": "2025-07-11T21:59:26.229759+08:00",
+      "last_used_at": "2025-07-05T12:33:01.121+08:00",
+      "usage_count": 1,
+      "note_file": "notes/offline_tools/微步api-批量查询.txt",
+      "key_path": ""
+    },
+    {
+      "id": "16f4f86a49962f347d549f8c5cc29296",
+      "name": "态势告警自动查询微步-js",
+      "category": "1-我的工具",
+      "path": "/Users/02_tool/0-matu7/sec-tools/1-我的工具/态势告警自动查询微步-js",
+      "description": "",
+      "tags": [
+        "1-我的工具"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "",
+      "created_at": "2025-07-09T23:33:04.687936+08:00",
+      "updated_at": "2025-07-11T21:59:26.22976+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/态势告警自动查询微步-js.txt",
+      "key_path": ""
+    },
+    {
+      "id": "15ab9afe504e81a499eba07333ed0d55",
+      "name": "0x7eTeamTools",
+      "category": "b-框架利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/b-框架利用/0x7eTeamTools",
+      "description": "",
+      "tags": [
+        "comprehensive"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851088+08:00",
+      "updated_at": "2025-07-11T21:59:26.230116+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/0x7eTeamTools.txt",
+      "key_path": ""
+    },
+    {
+      "id": "59a1087f6a6e0ccac519de94ffa226a2",
+      "name": "webfinder",
+      "category": "other",
+      "path": "/Users/02_tool/0-matu7/sec-tools/other/webfinder",
+      "description": "",
+      "tags": [
+        "info"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.852065+08:00",
+      "updated_at": "2025-07-11T21:59:26.23047+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/webfinder.txt",
+      "key_path": ""
+    },
+    {
+      "id": "70825017250429fad3e20b11febd685d",
+      "name": "云资产管理工具",
+      "category": "other",
+      "path": "/Users/02_tool/0-matu7/sec-tools/other/云资产管理工具",
+      "description": "",
+      "tags": [
+        "other",
+        "jar"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T15:17:12.463781+08:00",
+      "updated_at": "2025-07-11T21:59:26.230472+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/云资产管理工具.txt",
+      "key_path": ""
+    },
+    {
+      "id": "b426da51eff30e10a3c76b5371eec8cb",
+      "name": "Fofa_search",
+      "category": "other",
+      "path": "/Users/02_tool/0-matu7/sec-tools/other/Fofa_search",
+      "description": "",
+      "tags": [
+        "info"
+      ],
+      "command": "java  -jar  fofa_search.jar",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.852033+08:00",
+      "updated_at": "2025-07-11T21:59:26.23046+08:00",
+      "last_used_at": "2025-06-22T01:30:35.118669+08:00",
+      "usage_count": 3,
+      "note_file": "notes/offline_tools/Fofa_search.txt",
+      "key_path": ""
+    },
+    {
+      "id": "b1cddf8dccb5c9400a5cd4687998e5b9",
+      "name": "postgre",
+      "category": "c-数据库利用",
+      "path": "/Users/02_tool/0-matu7/sec-tools/c-数据库利用/postgre",
+      "description": "",
+      "tags": [
+        "databases"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:44:55.851302+08:00",
+      "updated_at": "2025-07-11T21:59:26.230217+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/postgre.txt",
+      "key_path": ""
+    },
+    {
+      "id": "e937eb924a5d87ed9a23cf81bf30cd76",
+      "name": "Godzilla_ekp",
+      "category": "webshell",
+      "path": "/Users/02_tool/0-matu7/sec-tools/webshell/Godzilla_ekp",
+      "description": "",
+      "tags": [
+        "webshell"
+      ],
+      "command": "",
+      "url": "",
+      "icon": "default-icon.png",
+      "created_at": "2025-06-20T14:42:58.023233+08:00",
+      "updated_at": "2025-07-11T21:59:26.230661+08:00",
+      "last_used_at": "0001-01-01T00:00:00Z",
+      "usage_count": 0,
+      "note_file": "notes/offline_tools/Godzilla_ekp.txt",
+      "key_path": ""
+    }
+  ],
+  "base_path": "/Users/02_tool/0-matu7"
+}
