@@ -22,36 +22,7 @@ CTW 是一个用 Go 编写的跨平台命令与工具管理系统，面向终端
 - `web`：网页工具管理工具，读取网页工具 `JSON`。配置文件基于matu7
 
 
-## 构建
 
-### macOS / Linux
-
-```bash
-./build.sh
-```
-
-只编译当前平台：
-
-```bash
-./build.sh --local-only
-```
-
-### Windows
-
-```bat
-build.bat
-```
-
-只编译当前平台：
-
-```bat
-build.bat --local-only
-```
-
-### 输出结果
-
-- 当前平台的可执行文件会生成在项目根目录下：`cmmd`、`tool`、`web`。
-- 多平台构建产物会输出到 `build/<goos>_<goarch>/`。
 
 ## 快速开始
 必须:先指定加载的文件路径
